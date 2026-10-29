@@ -10,7 +10,7 @@ _____
 
 ## What it demonstrates
 
-_The one flow this prototype proves._
+A widget in Microsoft Word, that compares the current document against other documents made by adjacent team members. It identifies factual inconsistencies and marks them as risks to be addressed. It also identifies the sources of each claim and suggests next steps to take. 
 
 _____
 
